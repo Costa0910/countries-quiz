@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/Costa0910/countries-quiz/blob/main/screenshot.png)
 
 ### Built With
 
