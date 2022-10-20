@@ -43,6 +43,7 @@
 
 - [React](https://reactjs.org/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Loader from [loading.io](https://loading.io/css/)
 
 ## Features
 
