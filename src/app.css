@@ -1,0 +1,25 @@
+.App {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  gap: 5px;
+}
+
+.App > p,
+p > a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #f2f2f2;
+}
+
+.App > p {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 94vh;
+}
