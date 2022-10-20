@@ -57,8 +57,8 @@ const Quiz = ({ quiz, setQuiz, optionsToDisplay }) => {
         </>
       )}
       {next && (
-        <div className="next" onClick={handleNext}>
-          <button>Next</button>
+        <div className="next">
+          <button onClick={handleNext}>Next</button>
         </div>
       )}
     </div>
