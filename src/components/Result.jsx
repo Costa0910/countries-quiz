@@ -1,4 +1,5 @@
 import "./result.css";
+import winnerImg from "../images/winner.svg";
 
 const Result = (props) => {
   const { quiz, setQuiz } = props.options;
@@ -9,7 +10,7 @@ const Result = (props) => {
 
   return (
     <div className="result">
-      <img src="../src/images/undraw_winners_ao2o 2.svg" />
+      <img src={winnerImg} />
       <h2>Results</h2>
       <p>
         You got <span>{quiz.currentSequence}</span> correct answers
